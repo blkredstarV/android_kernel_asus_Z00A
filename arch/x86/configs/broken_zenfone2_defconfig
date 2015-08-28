@@ -3228,6 +3228,9 @@ CONFIG_DX_SEP54=y
 # Triggers - standalone
 #
 # CONFIG_IIO_SIMPLE_DUMMY is not set
+CONFIG_ZSMALLOC=y
+CONFIG_ZRAM=y
+# CONFIG_ZRAM_DEBUG is not set
 # CONFIG_FB_SM7XX is not set
 CONFIG_FRANDOM=y
 # CONFIG_CRYSTALHD is not set
